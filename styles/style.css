@@ -254,7 +254,7 @@ main {
 /* Mobile devices */
 @media screen and (max-width: 576px) {
 
-    header,  {
+    header  {
     padding: 20px;
 }
 
